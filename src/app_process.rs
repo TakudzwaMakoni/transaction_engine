@@ -34,7 +34,6 @@ impl <'a> Engine <'a>
                     {
                         // this shouldn't panic since the given 
                         // text allows us assume the types are valid
-                        // however we need to round to 4 d.p.
                         let amount = Decimal::from_str(entry[3].trim())
                                      .unwrap();
                         
@@ -71,7 +70,6 @@ impl <'a> Engine <'a>
                     {
                         // this shouldn't panic since the given 
                         // text allows us assume the types are valid
-                        // however we need to round to 4 d.p.
                         let amount = Decimal::from_str(entry[3].trim())
                                      .unwrap();
 

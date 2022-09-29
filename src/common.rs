@@ -36,7 +36,7 @@ impl ProcessEvent
             }
             ProcessEvent::ErrAmountNegative(tx_id) =>
             {
-                (format!("ProcessError: Transaction with id '{tx_id}' is negative"),
+                (format!("ProcessError: Transaction with id '{tx_id}' is negative."),
                 chrono::offset::Local::now())
             }
             ProcessEvent::ExternalErr(msg) =>
@@ -51,7 +51,7 @@ impl ProcessEvent
             }
             ProcessEvent::ErrTxNotFound(tx_id) =>
             {
-                (format!("ProcessError: Transaction with id '{tx_id}' is not found"),
+                (format!("ProcessError: Transaction with id '{tx_id}' is not found."),
                 chrono::offset::Local::now())
             }
             ProcessEvent::ErrUnrecognisedTx(line, tx_type) =>
@@ -64,7 +64,7 @@ impl ProcessEvent
             ProcessEvent::ErrInsufficientfunds(cli_id, tx_id) =>
             {
                 (format!("ProcessError: Client with id '{cli_id}' has \
-                \ninsufficient funds for transaction with id '{tx_id}'"),
+                \ninsufficient funds for transaction with id '{tx_id}'."),
                 chrono::offset::Local::now())
             }
             ProcessEvent::ErrTxNotDisputed(tx_id) =>
@@ -83,7 +83,7 @@ impl ProcessEvent
             ProcessEvent::ErrTxIdExists(tx_id) =>
             {
                 (format!("ProcessError: transaction with id '{tx_id}' already \
-                exists'"),
+                exists."),
                 chrono::offset::Local::now())
             }
         }

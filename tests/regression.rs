@@ -92,8 +92,7 @@ fn process_dispute_deposit()
     "type,       client,     tx,     amount
     deposit,         1,      3,     5.0
     deposit,         2,      4,     7.0
-    dispute,         1,      3,
-    dispute,         2,      5,";
+    dispute,         1,      3,";
 
     let mut accounts : HashMap<u16, Account> = HashMap::new();
     let mut data = csv::Reader::from_reader(csv.as_bytes());
@@ -117,8 +116,7 @@ fn process_dispute_deposit()
 #[test]
 fn process_invalid_tx_dispute_deposit()
 {
-        // inside of file should look like:
-    //
+
     let csv =
     "type,       client,     tx,     amount
     deposit,         1,      3,     5.0
@@ -172,11 +170,11 @@ fn process_dispute_withdrawal()
 
     let tx : &Tx = 
     engine.tx_history.get(&4).unwrap();
+    assert_eq!(tx.disputed, true);
 
     assert_eq!(account.held, dec!(4.0));
     assert_eq!(account.available, dec!(-3.0));
     assert_eq!(account.locked, false);
-    assert_eq!(tx.disputed, true);
 }
 
 #[test]
@@ -451,7 +449,8 @@ fn process_undisputed_chargeback_deposit()
     let mut logger = Logger::new(&"tests/testlog.txt".to_string());
     engine.process_transactions(&mut data,&mut logger);
 
-    // chargeback for client 1 should be successful
+    // chargeback for client 1 should fail
+    // because the referenced tx is undisputed
     let account : &Account = 
     engine.accounts.get(&1).unwrap();
 
@@ -482,7 +481,8 @@ fn process_undisputed_chargeback_withdrawal()
     let mut logger = Logger::new(&"tests/testlog.txt".to_string());
     engine.process_transactions(&mut data,&mut logger);
 
-    // chargeback for client 1 should be successful
+    // chargeback for client 1 should fail
+    // because the referenced tx is undisputed
     let account : &Account = 
     engine.accounts.get(&1).unwrap();
 

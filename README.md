@@ -14,12 +14,6 @@ Based on the given text, we are told that we can make the following assumptions 
 I take this to mean that Withdrawal and Deposits are only considered transactions and only they will occur uniquely,
 since dispute/resolves/chargebacks need to reference existing transaction ids.
 
-I also take this to mean that in the automated tests as mentioned in the text, there will be no csv file with funny data, such as a rogue mispelling of 'withdrawal' or a float value with a 'asddaasdasf' embedded between it. I hope my assumption is correct as my code works on that assumption. 
-
-I imagine in a real world application this would be communicating with some interface that has already verified the integrity of the data, for example If it was coming from a database, the types would have had to be valid to exist as records.
-
-The only in-file errors I expect are disputing/resolving/charging those related to non-existent transactions, as that is what the text mentions can happen.
-
 # dispute/resolve/chargeback logic
 
 I was also unclear about disputes: on one hand the text states that a dispute is a reversal of a transaction. This would have me think that disputing a withdrawal transaction means reversing that withdrawal with an equivalent deposit. 
@@ -28,10 +22,8 @@ But then the text explicitly states that in a dispute,
 
  >"The client's available funds should decrease by the  amount disputed, and their held funds should increase by the amount disputed".
 
- I defered to this more explicit instruction.
-  
-This means that: Assuming a start balance 10.0 available 0.0 held, then a withdrawal of 5.0, then a dispute on the withdrawal, which means 0.0 in available and 5.0 held. After a resolve thats 5.0. After, instead of a resolve, a chargeback, thats 0.0 on the account. 
-  
+ I deferred to this more explicit instruction.
+    
 One assumption I have made not given by the text is that client 'a' should not be able to dispute/resolve/chargeback a transaction belonging to client 'b', so I have added that check also, since the globality of transaction ids would make that in fact possible (i had to add checks for this anyway as part of testing to make sure I dont make a test csv that is incorrect in this way).
 
 # My decision to process transactions as they are streamed
@@ -42,22 +34,22 @@ This means however if a fatal error occurs in between streaming and processing, 
 
 # Concurrency
 
-We need to process each transaction serially and in the same order as the file, otherwise the engine could erroneously believe a withdrawal is invalid when because an earlier deposit has not been processed.
+We need to process each transaction serially and in the same order as the file, otherwise the engine could erroneously believe a withdrawal is invalid because an earlier deposit has not been processed yet.
 
-However, assuming related transactions are kept to a single input file, we should be able to run multiple instances of processing transaction files concurrently, sharing the accounts over each thread, since there would be no confilcting references across files, and the balance once all threads are complete would simply reflect the aggregation of the transactions on the shared accounts. This would behave like a regular current account which may have money coming from one place and going out from another simultaneously.
+However, assuming related transactions are kept to a single input file, we should be able to run multiple instances of processing transaction files concurrently, sharing the accounts over each thread, since there would be no conflicting references across files, and the balance once all threads are complete would simply reflect the aggregation of the transactions on the shared accounts. This would behave like a regular current account which may have money coming from one place and going out from another simultaneously.
 
 Some concurrency tests have been written, they are located in the 'tests' folder.
 To run the concurrency tests: `cargo test --test concurrency` from the root directory.
 
 I am using tokio for this test file.
 
-This test may take a while as it processes many larger files. To show thevarying orders of completion for each worker, run with the --nocapture flag:
+This test may take a while as it processes many larger files. To show the varying orders of completion for each worker, run with the --nocapture flag:
 
 `cargo test --nocapture`.
 
 # Memory usage
 
-It is inevitable that we must retain facsimiles of processed transactions, because they may be later referenced by dispute/resolve/chargeback.
+It is inevitable that we must retain copies of processed transactions, because they may be later referenced by dispute/resolve/chargeback.
 
 This adds space complexity O(N). My experience with servers in the fintech industry has taught me that modern servers have a lot of memory to handle a large data, some organisations even use a real time database (RTD) which is essentially storing data in RAM persistently and using it as the database for the benefit of faster execution (often done for advanced trading where time of execution is critical).
 
@@ -69,15 +61,15 @@ Therefore I have opted to store the transactions in memory - we would only need 
 
 1. ** regression **
 
-The tests cases that I have handled, and expected behaviour of the app are documented in the regression tests, located in the tests directory.
+The test cases that I have handled, and expected behaviour of the app are documented in the regression tests, located in the tests directory.
 
 To run the regression tests: `cargo test --test regression` from the root directory.
 
  2. ** Integration **
 
-The concurrency tests are integration tests where I have put together all of the types created to make rudimentary concurrent app, which is supposed to simulate the kind of workload a server might recieve from multiple clients simltaneously.
+The concurrency tests are integration tests where I have put together the types created to make rudimentary concurrent app, which is supposed to simulate the kind of workload a server might recieve from thousands of streams simltaneously.
 
-They exist to test / demonstrate that the app can be ran concurrently over multiple threads, and will produce correct results.
+They mainly exist to test / demonstrate that the app can be ran concurrently over multiple threads, and will produce correct results.
 
 3. ** Unit tests **
 
@@ -91,7 +83,8 @@ to run all tests: `cargo test`
 
 # Logging
 
-The logging feature was not part of the assingment and was mainly for my own debugging purposes. It is very rudimentary, and not intended for examination. the normal running of the app `cargo run -- <csv path>` effectively disables logging.
+The logging feature was not part of the exercise and was mainly for my own debugging purposes. It is very rudimentary, and not intended for consideration. The normal running of the app `cargo run -- <csv path>` effectively disables logging, but I am using it in some tests to 
+verify events which occur during runtime but dont throw or cause the process to stop.
 
 to run with logging:
 
