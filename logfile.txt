@@ -1,0 +1,4 @@
+EVENT LOG 2022-09-28 13:32:06.163717550 +00:00:
+ProcessError: Client with id '2' has 
+insufficient funds for transaction with id 5
+

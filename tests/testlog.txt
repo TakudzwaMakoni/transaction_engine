@@ -1,0 +1,1402 @@
+EVENT LOG 2022-09-28 13:51:08.224521942 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 13:51:08.225077869 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 13:52:54.103288339 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG EVENT LOG 2022-020229--0289 -1328: 5213::5452.:10341254854 .+1034176000 0+:0000::
+0ProcessError: Transaction with id '7' is not found0
+
+:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG EVENT LOG 2022-09-28 13:55:17.010799812 +00:00:
+ProcessError: Transaction with id '7' is not foundEVENT LOG 
+
+2022-09-28 13:55:17.2022-09-02810922096  13+:0550::170.00:
+10764977ProcessError: The referenced transaction with 
+id '5' isn't under dispute.' 
+
++00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 13:55:17.011399655 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022EVENT LOG 2022-09-28 14:04:40.958068037 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+-EVENT LOG 09-202228- 0149:-0284 :1440:.09579083584 :+400.0958185816: 0+00:
+0ProcessError: Transaction with id '5' is not found:
+
+00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:04:40.958439366 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:08:05.642421124EVENT LOG  +020220-:0090-:
+28ProcessError: Transaction with id '5' is not found 
+
+14:08:EVENT LOG 2022-09-28 14:08:05.642578008 +00:000:
+5ProcessError: Transaction with id '7' is not found.
+
+642516087 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:08:05.643048821 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:08:21.693588584 +00EVENT LOG :002022:
+-ProcessError: Transaction with id '7' is not found0
+
+9-28 14:08:21EVENT LOG .693718189 2022+-0009:-0280 :
+14ProcessError: Transaction with id '7' is not found:
+
+08:21.693814956 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 14:08:21.693967894 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG EVENT LOG 20222022--0099--2828  1414::1212::5252..881156640881158704  ++0000::0000:
+:
+ProcessError: Transaction with id '7' is not foundProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG 2022-EVENT LOG 09-202228- 0149:-1228: 5214.:88131367312 :+520.0881453438: 0+00:
+0ProcessError: Transaction with id '5' is not found:
+
+00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:12:52.881812758 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:14:08.140614883 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:14:08.140902489 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28EVENT LOG 2022-09-28 14:14:08.141380754 EVENT LOG +002022 :-01400:9:
+14-ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'28:
+
+ 14:14:08.141445787 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+08.141262491 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG EVENT LOG 20222022--0099--2828  1414::1414:11:.11768865854. 768864480+ 0+00:00:00:
+0ProcessError: Transaction with id '7' is not found:
+
+
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:14:11.769194185 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:14:11.769330504 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 14:14:11.769717909 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:14:55.500632763 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 EVENT LOG 14:142022:-550.9500777906- 28+ 0140::14EVENT LOG 0:055:
+2022.ProcessError: Transaction with id '7' is not found-500850468
+
+0 9+-0280 :140:014:
+:ProcessError: Transaction with id '5' is not found55
+
+.500898946 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:14:55.501076800 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:23:14.174960616 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:23:14.175510623 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 14:23:14.175757310 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:23:14.175932737 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:23:14.176117463 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14EVENT LOG :23:202214-.01762505089 -+280 014::0230::
+14ProcessError: Transaction with id '7' is not found.
+
+176310310 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:23:59.368229807 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:23:59.368562427 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09EVENT LOG -28 202214-:0239:-5928. 36888529514 :+230:059:.03689220430 :
++ProcessError: Transaction with id '7' is not found0
+
+0:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:23:59.369233979 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:23:59.369367604 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:23:59.369717178 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:27:37.188089171 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:27:37.188422101 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 14:27:37.188523257 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:27:37.188626815 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:27:37.188914741 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:27:37.189421003 EVENT LOG +002022:-0009:
+-ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'28
+
+ 14:27:37.189483961 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:27EVENT LOG :59.9685625182022 -+0090-:280 014:
+:ProcessError: Transaction with id '7' is not found27
+
+:59.968685619 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:27:59.969197650 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 14:27:59.969390268 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 14:27:59.969549943 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:27:59.969751139 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 14:27:59.970040450 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG EVENT LOG 2022-20220-90-928- 2816 :1614::1418:.18313672786. 313710130+ 0+00:00:00:
+0ProcessError: Transaction with id '7' is not found:
+
+
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 16:14:18.313960197 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 16:14:18.314313914 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 16:14:18.314514695 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-EVENT LOG 09-202228- 0169:-1428: 1816.:31479756314 :+180.0314823981: 0+00:
+0ProcessError: The referenced transaction with 
+id '3' isn't under dispute.':
+
+00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 16:14:18.315175892 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28EVENT LOG 2022-09-28 17:06:43.433773890 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+ EVENT LOG 17:06:43EVENT LOG .433503044 2022+-0009:-0280 :
+17ProcessError: Transaction with id '7' is not found:
+
+06:43.434058188 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+2022-09-28 17:06:43.433892339 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:06:43.434664234 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG EVENT LOG 20222022--0099--2828  1717::0066::4343..434804708434776745  ++0000::0000:
+:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+
+
+EVENT LOG 2022-09-28 17:06:43.435166139 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09EVENT LOG -2022-09-28 17:42:20EVENT LOG .801485518 2022+-0009:-0280 :
+17ProcessError: Transaction with id '5' is not found:
+
+42:20.801558 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+28 17:42:20.EVENT LOG 8012534972022EVENT LOG -020229--0289 -1728: 4217::2042.:80190281720 .+8019188230 0+:0000::
+0ProcessError: Transaction with id '7' is not found0
+
+:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+ +00:0EVENT LOG 02022-09-28 17:42:20.802246410 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:42:20.803130636 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:42:20.803429152 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG EVENT LOG 20222022--0099--2828  1717::4444::0088..925615848925616762  ++0000::0000:
+:
+ProcessError: Transaction with id '7' is not foundProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG 2022-09-28EVENT LOG  17:202244-:0098-.28926249632  17+:0440::0080.:
+926288079ProcessError: Transaction with id '5' is not found 
+
++00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 EVENT LOG 17:202244-:0098-.28926661406  17+:0440::0080.:
+926717337ProcessError: The referenced transaction with 
+id '3' isn't under dispute.' 
+
++00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:44:08.927165633 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:44:08.927438212 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 17:45:37.462025653 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 17:45:37.462809649 +00:00:
+EVENT LOG ProcessError: Transaction with id '7' is not found
+
+2022EVENT LOG -092022--280 917-:2845 :1737:.45462933274: 37+.04629609750 :+0000:
+:ProcessError: Transaction with id '7' is not found0
+
+0:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:45:37.463545788 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022EVENT LOG -092022--280 917-:2845 :1737:.45464078027: 37+.04641289280 :+0000:
+:ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'0
+
+0:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:45:37.464390229 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-EVENT LOG 09-202228- 0179:-4628: 3417.:95701957046 :+340.0957118649: 0+00:
+0ProcessError: Transaction with id '7' is not found:
+
+00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:46:34.958894376 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 17:46:34.959260818 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-0EVENT LOG 9-282022 -170:946-:2834 .17959480341: 46+:0340.:9595164100 0+:
+0ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'0
+
+:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG EVENT LOG 2022-09-28 17:46:34.960605777 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+2022-09-28 17:46:34.960529933 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:55:10.458501878 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022EVENT LOG -09-28 17:55:10.458762461 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 20222022--0099--2828  1717::5555::1010..458840524459332928  ++0000::0000:
+:
+ProcessError: Transaction with id '5' is not foundProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG 2022-09-28 17:55:10.459642676 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:55:10.459812088 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG EVENT LOG 2022-20220-90-928- 2817 :1755::5510:.10460294668. 460319427+ 0+00:00:00:
+0ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2:
+
+
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG EVENT LOG 20222022--0099--2828  1717::5555::3333..212859844212884919  ++0000::0000:
+:
+ProcessError: Transaction with id '7' is not foundProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG 2022-09-28 17:55:33.EVENT LOG 213393354 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-0EVENT LOG 9-282022 -170:955-:2833 .17213934389: 55+:0330.:2139435840 0+:
+0ProcessError: Transaction with id '7' is not found0
+
+:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 20222022--0099--2828  1717::5555::3333..213662054214140924  ++000EVENT LOG 0::0202200-0:
+0:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'9ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+-
+
+28 17:55:33.214272508 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:56:58.583257644 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 17:56:58.584048969 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:56:58.584279989 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:56:58.584410446 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:56:58.584989973 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:56:58.585452015 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:56:58.585695111 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 17:56:58.585877965 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 17:59:07.189461095 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 17:59:07.189723858 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:59:07.189911340 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:59:07.190082409 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 17:59:07.190593804 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09EVENT LOG -28 202217-:0599:-0287 EVENT LOG .17191156190:2022 59-+:000907-:.280191223055 0 17:
++:ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'059
+
+0::0070.:
+191265753ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2 
+
++00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:00:35.723294909 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:00:35.724176605 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:00:35.725071031 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:00:35.726677239 +00:00:
+EVENT LOG ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+2022-09-28 18:00:35.727260940 +00:00:
+EVENT LOG 2022ProcessError: Transaction with id '7' is not found
+
+-09-28 18:00:35.726345285 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:00:35.729811849 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 18:00:35.731339605 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:01:12.345504472EVENT LOG  +2022-09-28 18:01:12.345914287 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 18:01:12.346104166 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+00:EVENT LOG 002022-09-28 18:01:12.346309934 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+:
+ProcessError: Transaction with id '7' is not foundEVENT LOG 
+
+2022-09-28 18:01:12.346532685 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:01:12.346761922 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:01:12.346917956 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:01:12.347082345 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-EVENT LOG 02022-09-28 18:50:07.192322541 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+9-28 18:50:07.192168278EVENT LOG  +002022EVENT LOG :-090-280 :
+18ProcessError: Transaction with id '7' is not found:
+
+50:07.192744499 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+2022-09-28 18:50:07.192897378 +00:0EVENT LOG 0:
+ProcessError: Transaction with id '7' is not found2022
+
+-09-28 18:50:07.193241522 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:50:07.193705330 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG EVENT LOG 20222022--0099--2828  1818::5050::0077..194100298194097424  ++0000::0000:
+:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+
+
+EVENT LOG 2022-09-28EVENT LOG 2022-09-28 18:50:42.045395541 +00:00:
+EVENT LOG ProcessError: Transaction with id '5' is not found
+
+2022-09-28 18:50:42.045503563 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+ 18:50:42.045139262 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:50:42.046114406 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-EVENT LOG 282022-09-28 18:50:42.046550697 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+ 18EVENT LOG :502022-09-28 18:50:42.046705880 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+:42.046291969 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:50:42.047357332 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG EVENT LOG 2022-20220-90-928- 2818 :1851::5140:.40228554894. 228788370+ 0+00:00:00:
+0ProcessError: Transaction with id '7' is not found:
+
+
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 18:51:40.230752394 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:51:40.231209117 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-EVENT LOG 2022-0EVENT LOG 9-202228- 0189:-5128: 4018.:23157416051 :+400.0231605516: 0+00:
+0ProcessError: The referenced transaction with 
+id '4' isn't under dispute.':
+
+00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+28 18:51:40.231410448 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:51:40.232147867 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG EVENT LOG 2022-09-28 18:53:16.027701307 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+2022-09-28 18:53:16EVENT LOG .2022-09-28 18:53:16.028160717 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+027659194 +EVENT LOG 00:EVENT LOG 2022-09-28 18:53:16.028504243 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:53:16.029990525 +00:002022:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+-09-28 18:53:16.028411969 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09EVENT LOG -28 202218-:0539:-1628. 01831209807: 53+:0160.:00312300230 :
++ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 20
+
+0:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:53:33.017066704 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:53:33.018560100 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 18:53:33.018839315 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:53:33.019367803 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:53:33.020155297 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:53:33.020323889 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:53:33.021177900 +00:00EVENT LOG :
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+2022-09-28 18:53:33.021277075 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:56:25.644557107 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-EVENT LOG 2022-09-28 18:56:25.645270185 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+09-28 18:56:25.645146932 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 18:56:25.645727087 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 18:56:25.645936448 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 18:56:25.646295465 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'EVENT LOG 
+
+2022-09-28 18:56:25.646426722 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 18:56:25.646636798 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:08:14.835055556 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:08:14.836002426 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:08:14.836690962 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG EVENT LOG 2022-20220-90-928- 2819 :190:80:814:.14836840954. 836853498+ 0+00:00:00:
+0ProcessError: The referenced transaction with 
+id '5' isn't under dispute.':
+
+
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:08:14.837686530 +00:00EVENT LOG 2022-09-28 19:08:14.838267543 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'EVENT LOG 2022-09-28 19:08:14.838478439 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+
+
+EVENT LOG 2022-09-28 19:46:19.784522593 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:46:19.784931061 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG EVENT LOG EVENT LOG 20222022--202200-990--92828  -191928: 46:19:46::461919:..19785539658.785551413 785569441  +++000000:::000000:
+:
+:
+ProcessError: Transaction with id '5' is not foundProcessError: Transaction with id '7' is not foundProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+
+
+
+
+EVENT LOG 2022-09-28 19:46:19.785777988 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:46:19.786251413 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:46:19.786801431 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 19:48EVENT LOG :25.2022664097938- 0+90-028: 0190::
+48ProcessError: Transaction with id '7' is not found:
+
+25.664243652 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:48:25.664613783 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 19:48:25.665421463 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28EVENT LOG EVENT LOG EVENT LOG  2022202219-2022-:0-90480-9:928-2528- 28 .19 19665576112:19: 48:48::+4825:250.25.0666337017.666262032: 666423367  0+0++0:
+0000ProcessError: Transaction with id '7' is not found0
+
+:::00000:
+:
+0ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+:
+
+
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG EVENT LOG 20222022--0099--2828  1919::4949::1414..948901944949124081  ++0000::0000:
+:
+ProcessError: Transaction with id '7' is not foundProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG EVENT LOG 2022-09-28EVENT LOG  192022:-490:914-.28951436483  19+:0490::140.0951668426:
+ ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'+
+
+00:00:
+ProcessError: Transaction with id '5' is not found
+
+2022-09-28 19EVENT LOG :49:202214-.09513882679 -+280 019::0490::
+14ProcessError: Transaction with id '7' is not found.
+
+952149767 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:49:14.954354759 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:49:14.956109978 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022EVENT LOG -020229--0289 -1928: 4919::5049.:22317129550 .+2232237190 0+:0000::
+0ProcessError: Transaction with id '7' is not found0
+
+:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 19:49:50.223385470 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:49:50.223868967 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:49:50.224364053 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:49:50.224489277 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19EVENT LOG :49:202250-.02246409279 -+280 019::0490::
+50ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2.
+
+224700091 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:51:52.649285405 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:51:52.649558659 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 19:51:52EVENT LOG .650235734 2022+-0009:-0280 :
+19ProcessError: Transaction with id '7' is not found:
+
+51:52.650303236 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:51:52.650506352 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:51:52.650651908 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG EVENT LOG 2022-20220-90-928- 2819 :1951::5152:.52651218851. 651237249+ 0+00:00:00:
+0ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2:
+
+
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:55:23.687626744 +00:00:
+ProcessError: Transaction with id '7' is not foundEVENT LOG 
+
+2022-09-28 19:55:23.687753092 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:55:23.688089642 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 19:55:23.688521475 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28EVENT LOG  192022:-550:923-.28688625181  19+:0550::230.0688665719:
+ ProcessError: Transaction with id '5' is not found+
+
+00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:55:23.688939287 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 19:55:23.689857534 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 20:10:42.707043727 EVENT LOG +002022:-0009:
+-ProcessError: Transaction with id '7' is not found28
+
+ 20:10:42.707160933 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 20:10:42.707886546 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 20:10:42.708025582 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 20:10:42.708452580 +EVENT LOG 002022:-0009:
+-ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'28
+
+ 20:10:42.708532636 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 20:10:42.708869198 +EVENT LOG 00:20220-00:
+9ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'-
+
+28 20:10:42.708940305 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG EVENT LOG 2022-09-28 20:17:38.633807818 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+2022-09-28 20:17EVENT LOG :2022-09-28 20:17:38.634285152 +00:0EVENT LOG 0:
+ProcessError: Transaction with id '5' is not found2022
+
+-09-28 20:17:38.634425053 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+38.633679267 +EVENT LOG 2022-09-28 20:17:38.634708822 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 20:17:38.635207007EVENT LOG  EVENT LOG 20222022--0099--2828  2020::1717::3838..635564424635594159  ++0000::0000:
+:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+
+
++00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG EVENT LOG 20222022--0099--2828  2020::1818::5050..742605972742609363  ++0000::0000:
+:
+ProcessError: Transaction with id '7' is not foundProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG 2022-09-28 20:18:50.742785330 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 20:18:EVENT LOG 502022.742915513- 0EVENT LOG +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+2022-9-28 20:18:50.743031729 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+09-28 20:18:50.743659111 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG EVENT LOG 2022-20220-90-928- 2820 :2018::1850:.50744096537. 744109831+ 00+:0000::
+0ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'0
+
+:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG EVENT LOG 20222022-09-28 20:19:15.337723879 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+-09-28 20:19:EVENT LOG 2022-09-28 20:19:15.338134273 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+15.337591213 +EVENT LOG 02022-09-28 20:19:15.338377948 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+0:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG EVENT LOG 2022-20220-90-928- 2820 :2019::1915:.15339231016. 339259682+ 0+00:00:00:
+0ProcessError: The referenced transaction with 
+id '5' isn't under dispute.':
+
+
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 20:19:15.339607113 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 20:19:15.339751515 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09EVENT LOG -2022-09-28 20:20:19.355286096 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+28 20:20EVENT LOG :2022-09-28 20:20:19.355509583 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+19.355103156 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 20:20:19.355967055 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 20:20:19EVENT LOG .356114051 2022+-0009:-0280 :
+20ProcessError: The referenced transaction with 
+id '4' isn't under dispute.':
+
+20:19.356136211 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 20:20:19.356450903 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 20:20:19.356663635 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG EVENT LOG 2022-09-28 20:20:49.036610640 EVENT LOG +002022:-0009:
+-ProcessError: Transaction with id '7' is not found28
+
+ 20EVENT LOG :20:202249-.00936685975- 28+ 0200::20EVENT LOG 0:0EVENT LOG 492022.:
+-20220ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'0
+
+-3673035090 -9+-28028 0 20:20:0:020:
+:20ProcessError: Transaction with id '7' is not found49:
+
+49..003679208436781211  ++0000::0000:
+:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'ProcessError: Transaction with id '5' is not found
+
+
+
+2022-09-28 20:20:49.036382195 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 20:20:49.037346593 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 20:20:49.037725136 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-EVENT LOG 28 EVENT LOG 202022:-5920220:-9220-.928738357513-  2820+ :020590:::EVENT LOG 59220:.0222022738414582:
+.- ProcessError: Transaction with id '7' is not found7388306760+
+
+ 90EVENT LOG +-0280: 00202220:0-:0:
+0590ProcessError: Transaction with id '7' is not found9::
+
+
+-22ProcessError: Transaction with id '5' is not found28.
+
+ 73898890820 :+590:022:.00739030288:
+ EVENT LOG ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'+
+
+0EVENT LOG 02022EVENT LOG -:0202290--0028:
+9 ProcessError: Transaction with id '7' is not found-20
+
+28: 5920::2259.:73938318422 .+7402193060 0+:0000::
+0ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'0
+
+:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+2022-09-28 20:59:22.739725534 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 22:04:55.295430456 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 22:04:55.295935765 EVENT LOG +002022:-0009:
+-ProcessError: Transaction with id '3' is not found28
+
+ 22:04:55.296003527 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 22:04:55.296172256 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 22:04:55.296469233 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 22:04:55.296876577 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 22:04:55.297042707 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 22EVENT LOG :042022:-550.9297393984- 28+ 0220::0040::
+55ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'.
+
+297420293 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-EVENT LOG 09-202228- 0229:-2428: 0229:.24390435345: 0+90.0390490539: 0+00:
+0ProcessError: Transaction with id '5' is not found:
+
+00:
+ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.'
+
+EVENT LOG 2022-09-28 22:24:09.390838827 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 22:24:09.390923008 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 22:24:09.391041163 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 22:24:09.391219447 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 22:24:09.391641616 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 22:24:09.391812517 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-28 22:24:09.392152011 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG EVENT LOG 20222022--0099--2828  2222::4949::2525..565306681565307462  ++0000::0000:
+:
+ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.'ProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG 2022-09EVENT LOG -28EVENT LOG 2022-09-28  22:2022-09-28 22:49:25.565865102 +0220::490:025:
+.49:25.565728164 ProcessError: Transaction with id '7' is not found565904308
+
+ +00:00:
+ProcessError: Transaction with id '7' is not found
+
++0EVENT LOG 02022-09-28 22:49:25.566369194 +:000:00:
+EVENT LOG 0ProcessError: Transaction with id '5' is not found:
+
+
+2022ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'-
+
+09-28 22:49:25.566463912 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG EVENT LOG 20222022--0099--2828  2222::4949::2525..566998399567010638  ++0000::0000:
+:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+
+
+EVENT LOG 2022-09EVENT LOG -EVENT LOG 282022 -2022220-:9051-9:28-45 28.22 :0225122586044:: 5145+:0.4500.22649769:0 022656272+0 0:
++0ProcessError: Transaction with id '5' is not found0
+
+:00:00:
+0ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.':
+
+
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG EVENT LOG 2022-09-28 22:51:45.023241374 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+2022-09-EVENT LOG 282022-09-28 22:51:45.023536199 EVENT LOG +002022:-0009:
+-ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'28
+
+ 22:51:45.023609549 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+ 22:51:45.023277979 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 22:51:45.024230 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 22:51:45.024479491 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-09-28 22:53:03.EVENT LOG 0894035992022 -+0090-:280 022:
+:ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.'53
+
+:03.089495845 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG EVENT LOG 20222022--0099--2828  2222::5353::0033..008986053789854947  ++0000::0000:
+:
+ProcessError: Transaction with id '7' is not foundProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG 2022-09-28 22:53:03.090034464 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 22:53:03.090265813 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+EVENT LOG 2022-EVENT LOG 09-202228- 0229:-5328: 0223:.530:905938820 3+.00090611186: 0+00:
+0ProcessError: The referenced transaction with 
+id '5' isn't under dispute.':EVENT LOG 
+
+00:
+2022ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'-
+
+09-28 22:53:03.090703825 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-EVENT LOG 28 2022-09-28 23:15:46.253489778 +EVENT LOG 00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 20222022-09-2823 23::1515::4646..253306035253865059  ++0000::0000:
+:
+ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.'ProcessError: Transaction with id '7' is not found
+
+
+
+-EVENT LOG 09-202228- 0239:-1528: 4623.:25380414715 :+460.EVENT LOG 0EVENT LOG EVENT LOG 20222022-2022-0-0909-9-28-28 28 23 23:23:15:15:15::464646...254688488254705321254712194   +++000000:::000000:
+:
+:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+
+
+253987696 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-28 23:15:46.255347479 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 23:44:09.378999593 +00:00:
+ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.'
+
+EVENT LOG 2022-09-28 23:44:09.379164477 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG EVENT LOG EVENT LOG 20222022-2022-0-0909-9-28-28 28 23 23:23:44:44:44:0:0909.9.379662884.379667856 379692160 + +0+0000:0:0:0000:
+0:
+ProcessError: Transaction with id '7' is not found:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+ProcessError: Transaction with id '7' is not found
+
+
+
+EVENT LOG 2022-09-28 23:44:09.379689237 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+EVENT LOG 2022-09-28 23:44:09.380511815 +EVENT LOG 00:20220-00:
+9ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'-
+
+28 23:44:09.380619569 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+EVENT LOG 2022-09-28 23:44:09.380820669 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 23EVENT LOG :482022-09-28 23:48:39.448828977 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG :39EVENT LOG 2022-.448401638 +00:00:
+ProcessError: Transaction with id '5' is not found
+
+020229-09-28 23:48:39.448979829 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+-28 23:48:39.449008629 +0EVENT LOG 02022EVENT LOG -09-28 23::48:0390.:
+449598246ProcessError: Transaction with id '7' is not found 
+
++00:00EVENT LOG :
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'2022
+
+-09-28 23:48:39.449761354 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+2022-09-28 EVENT LOG 23:482022:-390.9449092817- 28+ 0230::480:039:
+.ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.'450106076
+
+ +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+EVENT LOG 2022-09-28 23:48:39.450393646 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-29 00:45:00.378575086 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG 2022-09-29 00:45:0EVENT LOG 0.3792832412022 -+0090-:290 00:
+0ProcessError: Transaction with id '7' is not found:
+
+45:00.379358734 +00:00:
+ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.'
+
+EVENT LOG 2022-09-29 00:45EVENT LOG :00.3794554662022 -+0090-:290 00:
+0ProcessError: Transaction with id '5' is not found:
+
+45:00.379509844 +00:00:
+ProcessError: Transaction with id '7' is not found
+
+EVENT LOG EVENT LOG 2022-09-29 00:45:00.380386174 +00:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+EVENT LOG 2022-09-29 00:45:00.EVENT LOG 380533827 +00:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id 2
+
+2022-09-29 00:45:00.380913561 +00:00:
+ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+2022-09-29 00:45:00.380356247 +00:00:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+

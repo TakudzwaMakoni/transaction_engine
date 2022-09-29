@@ -1,0 +1,4 @@
+type,           client,     tx,     amount
+deposit,             1,      5,     5.0
+dispute,             1,      5,
+chargeback,          1,      5,
