@@ -57,7 +57,7 @@ impl ProcessEvent
             ProcessEvent::ErrInsufficientfunds(cli_id, tx_id) =>
             {
                 (format!("ProcessError: Client with id '{cli_id}' has \
-                \ninsufficient funds for transaction with id {tx_id}"),
+                \ninsufficient funds for transaction with id '{tx_id}'"),
                 chrono::offset::Local::now())
             }
             ProcessEvent::ErrTxNotDisputed(tx_id) =>
