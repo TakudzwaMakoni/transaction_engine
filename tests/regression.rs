@@ -532,3 +532,118 @@ fn process_invalid_auth_chargeback()
     let last_event = logger.unwrap().last_entry();
     assert_eq!(last_event, ProcessEvent::ErrUnauthorisedTx(2,3));
 }
+
+#[test]
+fn process_negative_deposit()
+{
+
+    let csv =
+    "type,       client,     tx,     amount
+    deposit,         1,      3,     -5.0";
+
+    let mut accounts : HashMap<u16, Account> = HashMap::new();
+    let mut data = csv::Reader::from_reader(csv.as_bytes());
+    let mut engine = tx_engine::engine::Engine::new(&mut accounts);
+    let mut logger = Logger::new(&"tests/testlog.txt".to_string());
+    engine.process_transactions(&mut data,&mut logger);
+
+    // deposit for client 1 should be fail
+    // because the amount is negative.
+    //( therefore tx wont exist.)
+    if let Some(_) = engine.tx_history.get(&3)
+    {
+        panic!()
+    }
+ 
+    let last_event = logger.unwrap().last_entry();
+    assert_eq!(last_event, ProcessEvent::ErrAmountNegative(3));
+
+
+}
+
+#[test]
+fn process_negative_withdrawal()
+{
+
+    let csv =
+    "type,       client,     tx,     amount
+    deposit,         1,      3,     5.0
+    withdrawal,      1,      4,     -5.0";
+
+    let mut accounts : HashMap<u16, Account> = HashMap::new();
+    let mut data = csv::Reader::from_reader(csv.as_bytes());
+    let mut engine = tx_engine::engine::Engine::new(&mut accounts);
+    let mut logger = Logger::new(&"tests/testlog.txt".to_string());
+    engine.process_transactions(&mut data,&mut logger);
+
+    // withdrawal for client 1 should be fail
+    // because the amount is negative
+    let account : &Account = 
+    engine.accounts.get(&1).unwrap();
+
+
+    assert_eq!(account.held, dec!(0.0));
+    assert_eq!(account.available, dec!(5.0));
+    assert_eq!(account.locked, false);
+
+    let last_event = logger.unwrap().last_entry();
+    assert_eq!(last_event, ProcessEvent::ErrAmountNegative(4));   
+}
+
+
+#[test]
+fn process_invalid_type_()
+{
+
+    let csv =
+    "type,       client,     tx,     amount
+    deposit,         1,      3,     5.0
+    withdfrawal,      1,      4,     5.0";
+
+    let mut accounts : HashMap<u16, Account> = HashMap::new();
+    let mut data = csv::Reader::from_reader(csv.as_bytes());
+    let mut engine = tx_engine::engine::Engine::new(&mut accounts);
+    let mut logger = Logger::new(&"tests/testlog.txt".to_string());
+    engine.process_transactions(&mut data,&mut logger);
+
+    // withdrawal for client 1 should be fail
+    // because the the type has a typo.
+    let account : &Account = 
+    engine.accounts.get(&1).unwrap();
+
+    assert_eq!(account.held, dec!(0.0));
+    assert_eq!(account.available, dec!(5.0));
+    assert_eq!(account.locked, false);
+
+    let last_event = logger.unwrap().last_entry();
+    assert_eq!(last_event, ProcessEvent::ErrUnrecognisedTx(1,"withdfrawal"
+                                                             .to_string()));   
+}
+
+#[test]
+fn process_duplicate_tx_ids_()
+{
+
+    let csv =
+    "type,       client,     tx,     amount
+    deposit,         1,      3,     5.0
+    withdrawal,      1,      3,     5.0";
+
+    let mut accounts : HashMap<u16, Account> = HashMap::new();
+    let mut data = csv::Reader::from_reader(csv.as_bytes());
+    let mut engine = tx_engine::engine::Engine::new(&mut accounts);
+    let mut logger = Logger::new(&"tests/testlog.txt".to_string());
+    engine.process_transactions(&mut data,&mut logger);
+
+    // withdrawal for client 1 should be fail
+    // because it uses a tx id which already exists.
+    let account : &Account = 
+    engine.accounts.get(&1).unwrap();
+
+    assert_eq!(account.held, dec!(0.0));
+    assert_eq!(account.available, dec!(5.0));
+    assert_eq!(account.locked, false);
+
+    let last_event = logger.unwrap().last_entry();
+    assert_eq!(last_event, ProcessEvent::ErrTxIdExists(3));   
+}

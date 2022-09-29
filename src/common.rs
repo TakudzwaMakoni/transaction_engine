@@ -17,7 +17,9 @@ pub enum ProcessEvent
     ErrUnrecognisedTx(usize, String),
     ErrInsufficientfunds(u16, u32),
     ErrTxNotDisputed(u32),
-    ErrUnauthorisedTx(u16,u32)
+    ErrUnauthorisedTx(u16,u32),
+    ErrAmountNegative(u32),
+    ErrTxIdExists(u32)
 }
 
 impl ProcessEvent
@@ -30,6 +32,11 @@ impl ProcessEvent
             ProcessEvent::StartOfLogger =>
             {
                 (String::from("Event logger created."),
+                chrono::offset::Local::now())
+            }
+            ProcessEvent::ErrAmountNegative(tx_id) =>
+            {
+                (format!("ProcessError: Transaction with id '{tx_id}' is negative"),
                 chrono::offset::Local::now())
             }
             ProcessEvent::ExternalErr(msg) =>
@@ -71,6 +78,12 @@ impl ProcessEvent
                 (format!("ProcessError: Client with id '{cli_id}' cannot \
                 reference transaction with id '{tx_id}' because \
                 they do not own the transaction.'"),
+                chrono::offset::Local::now())
+            }
+            ProcessEvent::ErrTxIdExists(tx_id) =>
+            {
+                (format!("ProcessError: transaction with id '{tx_id}' already \
+                exists'"),
                 chrono::offset::Local::now())
             }
         }

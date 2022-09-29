@@ -1,6 +1,8 @@
 use crate::engine::Engine;
 use crate::common::*;
+
 use rust_decimal::prelude::*;
+use rust_decimal_macros::dec;
 
 impl <'a> Engine <'a>
 {
@@ -35,9 +37,24 @@ impl <'a> Engine <'a>
                         // however we need to round to 4 d.p.
                         let amount = Decimal::from_str(entry[3].trim())
                                      .unwrap();
+                        
+                        if amount < dec!(0.0000)
+                        {
+                            if let Some(l) = logger
+                            {
+                                l.log(&ProcessEvent::ErrAmountNegative(tx_id));
+                            }
+                            continue;
+                        }
 
-                        let tx = Tx::new(tx_id, client_id, amount, false);
-                        self.tx_history.entry(tx_id).or_insert(tx);
+                        if let Some(_) = self.tx_history.get(&tx_id)
+                        {
+                            if let Some(l) = logger
+                            {
+                                l.log(&ProcessEvent::ErrTxIdExists(tx_id));
+                            }
+                            continue;
+                        }
 
                         let account = self
                             .accounts
@@ -45,6 +62,10 @@ impl <'a> Engine <'a>
                             .or_insert(Account::new());
 
                         account.deposit(&amount);
+
+                        let tx = Tx::new(tx_id, client_id, amount, false);
+                        self.tx_history.entry(tx_id).or_insert(tx);
+
                     }
                     "withdrawal" => 
                     {
@@ -53,10 +74,25 @@ impl <'a> Engine <'a>
                         // however we need to round to 4 d.p.
                         let amount = Decimal::from_str(entry[3].trim())
                                      .unwrap();
-                    
-                        let tx = Tx::new(tx_id, client_id, amount, false);
-                        self.tx_history.entry(tx_id).or_insert(tx);
 
+                        if amount < dec!(0.0000)
+                        {
+                            if let Some(l) = logger
+                            {
+                                l.log(&ProcessEvent::ErrAmountNegative(tx_id));
+                            }
+                            continue;
+                        }
+
+                        if let Some(_) = self.tx_history.get(&tx_id)
+                        {
+                            if let Some(l) = logger
+                            {
+                                l.log(&ProcessEvent::ErrTxIdExists(tx_id));
+                            }
+                            continue;
+                        }
+                
                         let account = self
                             .accounts
                             .entry(client_id)
@@ -70,7 +106,11 @@ impl <'a> Engine <'a>
                             }
                             continue;
                         }
+
                         account.withdraw(&amount);
+
+                        let tx = Tx::new(tx_id, client_id, amount, false);
+                        self.tx_history.entry(tx_id).or_insert(tx);
                     }
                     "dispute" => 
                     {

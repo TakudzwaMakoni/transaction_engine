@@ -1,6 +1,9 @@
 # Assumptions based on the text:
 
 Based on the given text, we are told that we can make the following assumptions about the input csv file:
+
+> You can assume the type is a string, the client column is a valid u16 client ID, the tx is a valid u32 transaction ID, and the amount is a decimal value with a precision of up to four places past the decimal.
+
 - The type is a string.
 - The client column will contains valid u16 values.
 - The tx Column will contain valid u32 values.
