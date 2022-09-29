@@ -60,7 +60,10 @@ async fn process_double()
 
     // the end result should be such that both accounts have 
     // double the result, since we ran two processes of the same
-    // transactions file concurrently.
+    // transactions file concurrently. Here we are checking
+    // values in client 1's account. As can be seen from the 
+    // csv, one run should result in available 1.5. Since
+    // we run two its value is 3.0.
     assert_eq!(account.held, dec!(0.0));
     assert_eq!(account.available, dec!(3.0));
     assert_eq!(account.locked, false);
