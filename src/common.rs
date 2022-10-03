@@ -222,6 +222,11 @@ impl Logger
     }
 
     // returns the last message with timestamp
+    // this function is used in the regression tests.
+    // but rust-analyser fails to pick it up
+    // I put this attribute here, but rest assured
+    // this function is used.
+    #[allow(dead_code)]
     pub fn last_entry(&self)
     -> ProcessEvent
     {

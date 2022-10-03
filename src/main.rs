@@ -1,12 +1,14 @@
-extern crate tx_engine;
+mod engine;
+mod app_process;
+mod common;
+
+use common::Logger;
+use common::Account;
+use common::ProcessEvent;
 
 use std::process;
 use std::env;
 use std::collections::HashMap;
-
-use tx_engine::common::Logger;
-use tx_engine::common::Account;
-use tx_engine::common::ProcessEvent;
 
 fn the_app()
 -> ProcessEvent
@@ -38,7 +40,7 @@ fn the_app()
     };
 
     let mut accounts : HashMap<u16, Account> = HashMap::new();
-    let mut engine = tx_engine::engine::Engine::new(&mut accounts);
+    let mut engine = engine::Engine::new(&mut accounts);
     engine.process_transactions(&mut data,&mut logger);
     engine.output();
 

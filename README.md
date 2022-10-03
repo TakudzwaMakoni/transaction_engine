@@ -108,45 +108,8 @@ As far as I could tell from searching, the most workable workaround is to have a
 use provide mods in main.rs, this makes it easier to also include external files
 in the tests directory.
 
-Why am I using 
-```
-extern crate tx_engine;
-
-use std::process;
-use std::env;
-use std::collections::HashMap;
-
-...
-
-use tx_engine::common::Logger;
-use tx_engine::common::Account;
-use tx_engine::common::ProcessEvent;
-
-...
-
-let mut engine = tx_engine::Engine::new(&mut accounts);
-
-```
- and not 
-
- ```
-mod engine;
-mod app_process;
-mod common;
-
-...
-
-use common::Logger;
-use common::Account;
-use common::ProcessEvent;
-
-...
-
-let mut engine = engine::Engine::new(&mut accounts);
-
- ```
- ?
-
- because rust-analyser will fail to resolve that I am indeed using the functions
- `last_entry` and `read` in my tests directory, and will output those warnings 
- on build. since that will likely factor in, I don't want that misleading warning.
+ Since rust-analyser will fail to resolve that I am indeed using the function
+ `last_entry` in my `tests` directory, and will output a warning
+ on build, i have used a `#[allow(dead_code)]` attribute on the `last_entry` function.
+ Rest assured that the code is useful for testing purposes. Since a warning will likely factor in, 
+ I don't want that misleading warning.

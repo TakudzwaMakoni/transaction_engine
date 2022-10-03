@@ -1,4 +1,3 @@
-use std::error::Error;
 use std::collections::HashMap;
 
 use crate::common::*;
@@ -18,13 +17,6 @@ impl<'a> Engine <'a>
             accounts:       accounts,
             tx_history:     HashMap::new(),
         }
-    }
-
-    pub fn read (&mut self, path : &String)
-    -> Result<(), Box<dyn Error>>
-    {
-        csv::Reader::from_path(path)?;
-        Ok(())
     }
 
     pub fn output (&self)

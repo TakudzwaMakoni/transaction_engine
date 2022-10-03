@@ -1,0 +1,44 @@
+EVENT LOG 2022-10-03 11:43:25.664774 +01:00:
+ProcessError: transaction with id '3' already exists.EVENT LOG 2022
+
+-10-EVENT LOG 03 11:43:2022-2510-03 11:43:25.665333 +01:00:
+ProcessError: Transaction with id '7' is not found.
+
+EVENT LOG EVENT LOG 2022EVENT LOG 20222022--1010--0033  1111::4343::2525..667063667 EVENT LOG  2022-+100-10:30 011:
+:ProcessError: Transaction with id '7' is not found.43:25.667312 +01:00:
+ProcessError: In csv, line 1: 
+                    'withdfrawal' is not a recognised transaction type.
+
+.665067 +01:0EVENT LOG 02022-10-03 11:43:25.667798 +01:0-100-:
+0ProcessError: Transaction with id '3' is negative.3
+
+ 11:43:25.667034 +01:00:
+ProcessError: Transaction with id '7' is not found.
+
++01:0
+
+:
+ProcessError: Client with id '2' cannot reference transaction with id '3' because they do not own the transaction.'
+
+EVENT LOG 2022-10-03 11:43:25.670685 +01:00:
+ProcessError: Transaction with id '4' is negative.
+
+0:
+ProcessError: Transaction with id '5' is not found.
+
+EVENT LOG 2022-10-03 11:43:25.EVENT LOG 2022672995-10-03 11:43:25.673147 +01:0EVENT LOG 02022:
+-ProcessError: The referenced transaction with 
+id '4' isn't under dispute.'
+
+10-03 11:43:25.673341 +01:00:
+ProcessError: The referenced transaction with 
+id '5' isn't under dispute.'
+
+ +01EVENT LOG :20220-0:
+ProcessError: The referenced transaction with 
+id '3' isn't under dispute.'
+
+10-03 11:43:25.674182 +01:00:
+ProcessError: Client with id '1' has 
+insufficient funds for transaction with id '2'.
+
