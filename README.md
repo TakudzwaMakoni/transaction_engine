@@ -105,7 +105,7 @@ or replace the csv file with some other path.
 
 I had pains with creating a binary crate with integration / regression testing. 
 As far as I could tell from searching, the most workable workaround is to have a lib.rs and
-use provide lib as  mod in main.rs, this makes it easier to also include external files
+use provide mods in main.rs, this makes it easier to also include external files
 in the tests directory.
 
 Why am I using 
