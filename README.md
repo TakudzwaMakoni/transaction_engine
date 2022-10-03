@@ -109,7 +109,7 @@ use provide mods in main.rs, this makes it easier to also include external files
 in the tests directory.
 
 Why am I using 
-`
+```
 extern crate tx_engine;
 
 use std::process;
@@ -126,10 +126,10 @@ use tx_engine::common::ProcessEvent;
 
 let mut engine = tx_engine::Engine::new(&mut accounts);
 
-`
+```
  and not 
 
- `
+ ```
 mod engine;
 mod app_process;
 mod common;
@@ -144,7 +144,7 @@ use common::ProcessEvent;
 
 let mut engine = engine::Engine::new(&mut accounts);
 
- `
+ ```
  ?
 
  because rust-analyser will fail to resolve that I am indeed using the functions
