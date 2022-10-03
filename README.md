@@ -99,3 +99,54 @@ where the second argument is the file to be written to or created.
 `cargo run -- transactions.csv`
 
 or replace the csv file with some other path.
+
+
+# Additional note on module organisation
+
+I had pains with creating a binary crate with integration / regression testing. 
+As far as I could tell from searching, the most workable workaround is to have a lib.rs and
+use provide lib as  mod in main.rs, this makes it easier to also include external files
+in the tests directory.
+
+Why am I using 
+`
+extern crate tx_engine;
+
+use std::process;
+use std::env;
+use std::collections::HashMap;
+
+...
+
+use tx_engine::common::Logger;
+use tx_engine::common::Account;
+use tx_engine::common::ProcessEvent;
+
+...
+
+let mut engine = tx_engine::Engine::new(&mut accounts);
+
+`
+ and not 
+
+ `
+mod engine;
+mod app_process;
+mod common;
+
+...
+
+use common::Logger;
+use common::Account;
+use common::ProcessEvent;
+
+...
+
+let mut engine = engine::Engine::new(&mut accounts);
+
+ `
+ ?
+
+ because rust-analyser will fail to resolve that I am indeed using the functions
+ `last_entry` and `read` in my tests directory, and will output those warnings 
+ on build. since that will likely factor in, I don't want that misleading warning.
